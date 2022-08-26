@@ -1,5 +1,6 @@
 # Colorization NN
-Neural network that colors black and white images  
+Neural network that colors black and white images
+## N.B. This repository is a copy of a work published by the authors listed below.
   
 <!--<h3><b>Colorful Image Colorization</b></h3>-->
 ## <b>Colorful Image Colorization</b> [[Project Page]](http://richzhang.github.io/colorization/) <br>
