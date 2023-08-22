@@ -1,4 +1,6 @@
 # Colorization NN
+Neural Network course at "La Sapienza University of Rome"
+
 Neural network that colors black and white images
 ## N.B. This repository is a copy of a work published by the authors listed below.
   
